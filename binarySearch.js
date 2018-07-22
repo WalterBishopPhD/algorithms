@@ -1,5 +1,6 @@
 /**
- * binary search (mostly for arrays/common form)
+ * binary search (mostly for arrays)
+ * Average performance: O(log n)
  */
 function binarySearch(arr, item) {
   let low = 0;
