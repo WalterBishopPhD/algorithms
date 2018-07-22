@@ -1,3 +1,6 @@
+/**
+ * binary search (mostly for arrays/common form)
+ */
 function binarySearch(arr, item) {
   let low = 0;
   let high = arr.length;
